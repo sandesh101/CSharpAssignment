@@ -1,0 +1,8 @@
+E:\dotnethw\Question4\Question4\bin\Debug\Question4.exe.config
+E:\dotnethw\Question4\Question4\bin\Debug\Question4.exe
+E:\dotnethw\Question4\Question4\bin\Debug\Question4.pdb
+E:\dotnethw\Question4\Question4\obj\Debug\Question4.csproj.AssemblyReference.cache
+E:\dotnethw\Question4\Question4\obj\Debug\Question4.csproj.SuggestedBindingRedirects.cache
+E:\dotnethw\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+E:\dotnethw\Question4\Question4\obj\Debug\Question4.exe
+E:\dotnethw\Question4\Question4\obj\Debug\Question4.pdb
